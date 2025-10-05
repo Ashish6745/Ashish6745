@@ -78,16 +78,20 @@ const ashish = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish6745&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish6745&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish6745&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish6745&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashish6745&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish6745&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish6745&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=8B949E"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish6745&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="95%"/>
 </div>
 
 ---
@@ -95,7 +99,7 @@ const ashish = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashish6745&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashish6745&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
 </div>
 
 ---
