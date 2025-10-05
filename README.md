@@ -83,7 +83,7 @@ const ashish = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish6745&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Ashish6745&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
